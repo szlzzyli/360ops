@@ -1,0 +1,7 @@
+2016年 05月 21日 星期六 16:10:26 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.1  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 3.0  13675 lzy      /usr/lib64/firefox/firefox
+ 0.5  38973 root     gedit cpu_info.pl
+----------------------------------------
