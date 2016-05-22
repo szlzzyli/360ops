@@ -1,7 +1,105 @@
-2016年 05月 21日 星期六 16:10:26 CST
+2016年 05月 22日 星期日 09:28:22 CST
 Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
 %CPU    PID USER     COMMAND
- 6.1  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
- 3.0  13675 lzy      /usr/lib64/firefox/firefox
- 0.5  38973 root     gedit cpu_info.pl
+ 8.0  55957 root     ps -eo pcpu,pid,user,args
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+----------------------------------------
+2016年 05月 22日 星期日 09:31:39 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 0.1  13250 lzy      /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+----------------------------------------
+2016年 05月 22日 星期日 09:32:40 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+11.0  56040 root     ps -eo pcpu,pid,user,args
+----------------------------------------
+2016年 05月 22日 星期日 09:33:40 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 3.0  56060 root     ps -eo pcpu,pid,user,args
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+----------------------------------------
+2016年 05月 22日 星期日 09:34:41 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 0.1  13250 lzy      /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+----------------------------------------
+2016年 05月 22日 星期日 09:35:41 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 3.0  56098 root     ps -eo pcpu,pid,user,args
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+----------------------------------------
+2016年 05月 22日 星期日 09:36:42 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 0.1  13250 lzy      /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+----------------------------------------
+2016年 05月 22日 星期日 09:37:43 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 1.0  56130 root     ps -eo pcpu,pid,user,args
+----------------------------------------
+2016年 05月 22日 星期日 09:38:43 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 1.0  56144 root     ps -eo pcpu,pid,user,args
+----------------------------------------
+2016年 05月 22日 星期日 09:39:44 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 1.0  56158 root     ps -eo pcpu,pid,user,args
+----------------------------------------
+2016年 05月 22日 星期日 09:40:44 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 7.0  56191 root     ps -eo pcpu,pid,user,args
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+----------------------------------------
+2016年 05月 22日 星期日 09:41:45 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 0.1  13250 lzy      /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+----------------------------------------
+2016年 05月 22日 星期日 09:42:46 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 1.0  56219 root     ps -eo pcpu,pid,user,args
+----------------------------------------
+2016年 05月 22日 星期日 09:43:46 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 1.0  56233 root     ps -eo pcpu,pid,user,args
+----------------------------------------
+2016年 05月 22日 星期日 09:44:47 CST
+Cpu(s):  0.6%us,  0.3%sy,  0.0%ni, 99.1%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+%CPU    PID USER     COMMAND
+ 6.0  12975 root     /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-9EFwng/database -nolisten tcp vt1
+ 2.8  13675 lzy      /usr/lib64/firefox/firefox
+ 1.0  56259 root     ps -eo pcpu,pid,user,args
 ----------------------------------------
